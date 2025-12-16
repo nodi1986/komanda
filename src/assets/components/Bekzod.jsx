@@ -1,4 +1,6 @@
 import React from 'react'
+import cafeImg from "../cafe.png";
+import storeImg from "../store.png";
 
 const Bekzod = () => {
   return (
