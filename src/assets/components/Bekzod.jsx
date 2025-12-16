@@ -7,7 +7,7 @@ const Bekzod = () => {
     <div>
         <div className=" px-6 py-12 max-w-[1312px] mx-auto">
               <h2 className="text-3xl font-semibold mb-10">
-                Для розничных магазинов и ресторанов
+                Для розничных магазинов и ресторан
               </h2>
         
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
